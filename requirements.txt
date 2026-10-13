@@ -1,0 +1,10 @@
+# Kriptox 24/7 Autonomous Paper-Trading Bot
+# Python 3.10+ (tested 3.13 Windows)
+ccxt>=4.3.0
+pyyaml>=6.0
+pandas>=2.0
+numpy>=1.26
+aiohttp>=3.9
+python-dotenv>=1.0
+pydantic>=2.0
+pytest>=8.0
